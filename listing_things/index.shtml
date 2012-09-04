@@ -1,0 +1,130 @@
+<html>
+
+<head>
+	<script type="text/javascript" src="//use.typekit.net/yci1tiy.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	<script type='text/javascript' src='../media/js/jquery-1.8.0.min.js'></script>
+	<script type='text/javascript' src='../media/js/jquery.tipsy.js'></script>
+	<script type='text/javascript' src='../media/js/tipsy_skinny_nav.js'></script>
+	<link rel="stylesheet" href="../media/tipsy.css" type="text/css" />
+	<link href="../media/style.css" rel="stylesheet" type="text/css">
+	<title>Cece is listing things</title>
+</head>
+
+<body class="regular resume">
+
+<div class="wrapper">
+	<!--#include virtual="/includes/skinny-nav.html" -->
+	<div class="content">
+		<div class="standard-wrap">
+		<h1><span>cece.is/</span>listing_things</h1>
+		<table>
+		
+			<tr>
+				<td class="datefirst">3/11 - Pres</td>
+				<td class="namefirst">Alltuition</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><p class="title">Director of Design & Project Management</p><p>Launched 3 major college finance products: <a href="http://consolidation.alltuition.com">Alltuition Loan Consolidation</a>, <a href="http://alltuition.com/search">Alltuition Loan Search</a>, and <a href="http://www.alltuition.com">Alltuition for Financial Aid</a>. Highly involved in user research, prototyping, writing specs, and writing front-end code. Led product updates that doubled conversion rates on our loan consolidation product.</p> <p>Most recently, conducted extensive qualitative market research and focus groups in Mumbai, India for a new product launch focusing on identifying talented youth in STEM fields worldwide.</p>
+				<p class="note">The Alltuition team moved to Palo Alto in May 2012 to start work on <a href="http://www.brilliantscholars.com">Brilliant</a></p></td>
+			</tr>
+			
+			<tr>
+				<td class="date">9/07 - 6/11</td>
+				<td class="name">University of Chicago</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><p class="title">Bachelor of Arts in Economics + Bachelor of Arts in Public Policy</p><p>5-page essays and taking derivatives. Studied urban planning and economics, environmental economics, and business. Consulted for 3 local non-profits. Graduated with honors. Gained deferred acceptance into Chicago Booth's full time MBA program as part of the Booth Scholars Program.</p><p class="note">GPA: 3.63 / GMAT: 730</p></td>
+			</tr>
+			
+			<tr>
+				<td class="date">8/10 - 4/12</td>
+				<td class="name">Food Genius</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><p class="title">Co-founder & Design Advisor</p><p>First foray into mobile app design. Helped pitch and write business plan for our Excelerate class of 2011 application. Hung out at the IDEO Chicago offices and contributed product concepts for ideation sessions.</p> <p class="note">Food Genius was a startup-in-residence at IDEO and recently closed their Series A round of financing.<p/></td>
+			</tr>
+			
+			<tr>
+				<td class="date">6/10 - 8/10</td>
+				<td class="name">DraftFCB</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><p class="title">Account Management Intern</p><p>Worked on the Sharpie (Newell Rubbermaid) account coordinating work among creative, strategic, and production teams. Got well-acquainted with the structure and pace of a large creative agency. Attained high marks for final marketing project and overall performance, leading to a full-time job offer in the strategic planning department.</p></td>
+			</tr>
+			
+			<tr>
+				<td class="date">8/08 - 12/10</td>
+				<td class="name">Betterfly.com</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><p class="title">UX/UI Lead</p><p>My first long-term startup gig. Discovered the values of rapid prototyping, product focus, and team management.</p><p class="note">Betterfly is funded by Lightbank with main offices in NYC.</p></td>
+			</tr>
+			
+			<tr>
+				<td class="date">6/09 - 12/09</td>
+				<td class="name">Center for Neighborhood Technology</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><p class="title">Natural Resources Intern</p><p>Examined plans and policies for urban rainwater management and other green infrastructure installations, such as green roofs. Contributed to a cost-benefit analysis of green infrastructure vs. traditional concrete sewers. Biked to work every day.</p></td>
+			</tr>
+			
+			<tr>
+				<td class="date">6/07 - Pres</td>
+				<td class="name">Freelance Designer</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><p>Identity, website, and business collateral design for small businesses, non-profits, and restaurants. UI/UX consulting for web startups.</p></td>
+			</tr>
+			
+			<tr>
+				<td class="date">9/03 - 6/07</td>
+				<td class="name">Phillips Academy Andover</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><p class="title">High School Diploma</p><p>Best time of my life.</p></td>
+			</tr>
+			
+		</table>
+		
+		<div class="sidebar">
+			<h3>Skills</h3>
+			<h4>User Interface Design</h4>
+			<p>Photoshop, Illustrator, Balsamiq, Grid layouts, and lots of attention to detail</p>
+			<h4>User Experience Planning</h4>
+			<p>Ethnographic interviews, Focus groups, Personas, Rapid prototyping, Conversion optimization, User testing</p>
+			<h4>Project Management</h4>
+			<p>Podio, Pivotal Tracker, Prioritizing, People skills</p>
+			<h4>Front-end Development</h4>
+			<p>Django templating, HTML, CSS/Less, JQuery, Git</p>
+			<h4>Communication Design</h4>
+			<p>InDesign, Typography, Printing process</p>
+			<h4>Statistical Analysis</h4>
+			<p>Stata, Excel</p>
+			<h3>Workshops Attended</h3>
+			<p>"Adaptable Information Architecture" with Lou Rosenfeld</p>
+			<p>"Web Form Design" with Luke Wroblewski</p>
+			<p>"Do-It-Yourself Usability Testing" with Steve Krug</p>
+			<p>2011 Warm Gun Design Conference</p>
+			<h3>Presentations</h3>
+			<p>Women 2.0 PITCH 2012 (Hotseat)</p>
+		</div>	
+		<div style="clear:both;"></div>	
+			
+		</div>
+		
+		<!--#include virtual="/includes/footer.html" -->
+	</div>
+</div>
+
+</body>
+
+</html>

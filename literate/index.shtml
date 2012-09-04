@@ -1,0 +1,60 @@
+<html>
+
+<head>
+	<script type="text/javascript" src="//use.typekit.net/yci1tiy.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	<script type='text/javascript' src='../media/js/jquery-1.8.0.min.js'></script>
+	<script type='text/javascript' src='../media/js/jquery.tipsy.js'></script>
+	<script type='text/javascript' src='../media/js/tipsy_skinny_nav.js'></script>
+	<link rel="stylesheet" href="../media/tipsy.css" type="text/css" />
+	<link href="../media/style.css" rel="stylesheet" type="text/css">
+	<title>Cece is literate</title>
+</head>
+
+<body class="regular bookshelf">
+
+<div class="wrapper">
+	<!--#include virtual="/includes/skinny-nav.html" -->
+	<div class="content">
+		<div class="standard-wrap">
+		<h1><span>cece.is/</span>literate</h1>
+		
+		<div class="row">
+			<img src="../media/images/jimmy-corrigan.png" />
+			<div class="text">
+				<h2>Jimmy Corrigan, Smartest Kid on Earth</h2>
+				<h3>By Chris Ware</h3>
+				
+				<p>I read this during my only creative writing course in college, and it immediately struck every nostalgic bone in my body. It probably didn't help that I was (and still am) a sucker for infographics, thick black lines, Chicago, and the year 1893.</p>
+			</div>
+		</div>
+		
+		<div class="row">
+			<img src="../media/images/quadfecta.png" />
+			<div class="text">
+				<h2>About Face 3:  The Essentials of Interaction Design</h2>
+				<h3>By Alan Cooper</h3>
+				
+				<h2>Ordering Disorder: Grid Principles for Web Design</h2>
+				<h3>By Khoi Vinh</h3>
+				
+				<h2>Making Things Happen: Mastering Project Management</h2>
+				<h3>By Scott Berkun</h3>
+				
+				<h2>Web Form Design</h2>
+				<h3>By Luke Wroblewski</h3>
+				
+				<p style="margin-top: 40px;">These four books brought an economics major up to speed on the process and best practices used by (real) designers and product managers. Steve Krug's "Rocket Surgery Made Easy" should also probably be on this list.</p>
+			</div>
+		</div>
+		
+		
+		</div>
+		<!--#include virtual="/includes/footer.html" -->
+		
+	</div>
+</div>
+
+</body>
+
+</html>

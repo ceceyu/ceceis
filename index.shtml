@@ -1,0 +1,38 @@
+<html>
+
+<head>
+	<script type="text/javascript" src="//use.typekit.net/yci1tiy.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	<script type='text/javascript' src='media/js/jquery-1.8.0.min.js'></script>
+	<script type='text/javascript' src='media/js/jquery.tipsy.js'></script>
+	<link href="media/style.css" rel="stylesheet" type="text/css">
+	<title>Cece is</title>
+</head>
+
+<body class="home">
+
+<div class="wrapper">
+	<div class="nav-wrap">
+		<ul>
+			<li class="me"><span></span><a id="me" title="Home">me</a></li>
+			<li class="resume"><span></span><a href="listing_things" id="listing_things" title="R&eacute;sum&eacute;">r&eacute;sum&eacute;</a></li>
+			<li class="case-studies"><span></span><a href="very_strategic" id="very_strategic" title="Case Studies">case studies</a></li>
+			<li class="eye-candy"><span></span><a href="artsy" id="artsy" title="Eye Candy">eye candy</a></li>
+			<li class="bookshelf"><span></span><a href="literate" id="literate" id="Bookshelf">bookshelf</a></li>
+			<li class="contact"><span></span><a href="listening" id="listening" id="Contact">contact</a></li>
+		</ul>
+	</div>
+	<div class="content">
+		<div class="main-intro">
+		<h1><span>cece.is/</span>me</h1>
+		<p>Heyo. I'm an analytical interaction designer based in Palo Alto. I currently lead interaction design and project management for Alltuition.com. I like discovering customer needs, shipping product, and studying urbanization. I also rock climb, bike, and <i>tendu</i>.</p>
+		</div>
+		<!--#include virtual="/includes/footer.html" -->
+	</div>
+	
+</div>
+
+</body>
+
+</html>
+

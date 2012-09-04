@@ -1,0 +1,57 @@
+<html>
+
+<head>
+	<script type="text/javascript" src="//use.typekit.net/yci1tiy.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	<script type='text/javascript' src='../media/js/jquery-1.8.0.min.js'></script>
+	<script type='text/javascript' src='../media/js/jquery.tipsy.js'></script>
+	<script type='text/javascript' src='../media/js/tipsy_skinny_nav.js'></script>
+	<link rel="stylesheet" href="../media/tipsy.css" type="text/css" />
+	<link href="../media/style.css" rel="stylesheet" type="text/css">
+	<title>Cece is listening</title>
+</head>
+
+<body class="regular contact">
+
+<div class="wrapper">
+	<!--#include virtual="/includes/skinny-nav.html" -->
+	<div class="content">
+		<div class="standard-wrap">
+		<h1><span>cece.is/</span>listening</h1>
+		
+		<div class="contact-wrapper">
+				<div class="intro">
+					<h2>Talk to me!</h2>
+					<p>I usually get back to folks within 5-12 hours. Sorry, I am not available for contract work at this time.</p>
+					<p>You can also find me on:</p>
+					<ul>
+					<li><a href="http://www.facebook.com/cece.yu">Facebook</a></li>
+					<li><a href="http://www.linkedin.com/in/ceceyu">LinkedIn</a></li>
+					<li><a href="http://www.twitter.com/ceceyu">Twitter</a></li>
+					<li><a href="http://www.pinterest.com/ceceyu/generally-speaking/">Pinterest</a></li>
+				</ul>
+				</div>
+					<form action="http://www.bluehost.com/bluemail" enctype="multipart/form-data" method="POST">
+						<label>Your Name</label>
+						<input class="field" type="text" name="Name"><br>
+						<label>Email</label>
+						<input class="field" type="text" name="mailfrom"><br>
+						<label>Phone</label>
+						<input class="field" type="text" name="Phone"><br>
+						<label>Message</label>
+						<textarea class="field" type="text" rows="6" cols="50" name="message"></textarea>
+						<input type="hidden" name="sendtoemail" value="me@cece.is">
+						<input type="hidden" name="redirect" value="thanks.shtml"><br>
+						<input class="btn" type="submit" value="Send Email">
+					</form>
+					<div style="clear:both;"></div>
+			</div>
+			
+		</div><!--end standard wrap-->
+		<!--#include virtual="/includes/footer.html" -->
+	</div>
+</div>
+
+</body>
+
+</html>
