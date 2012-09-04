@@ -1,13 +1,7 @@
 <html>
 
 <head>
-	<script type="text/javascript" src="//use.typekit.net/yci1tiy.js"></script>
-	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-	<script type='text/javascript' src='../media/js/jquery-1.8.0.min.js'></script>
-	<script type='text/javascript' src='../media/js/jquery.tipsy.js'></script>
-	<script type='text/javascript' src='../media/js/tipsy_skinny_nav.js'></script>
-	<link rel="stylesheet" href="../media/tipsy.css" type="text/css" />
-	<link href="../media/style.css" rel="stylesheet" type="text/css">
+	<!--#include virtual="/includes/head.html" -->
 	<title>Cece is very strategic</title>
 </head>
 

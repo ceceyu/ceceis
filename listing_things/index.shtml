@@ -1,13 +1,7 @@
 <html>
 
 <head>
-	<script type="text/javascript" src="//use.typekit.net/yci1tiy.js"></script>
-	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-	<script type='text/javascript' src='../media/js/jquery-1.8.0.min.js'></script>
-	<script type='text/javascript' src='../media/js/jquery.tipsy.js'></script>
-	<script type='text/javascript' src='../media/js/tipsy_skinny_nav.js'></script>
-	<link rel="stylesheet" href="../media/tipsy.css" type="text/css" />
-	<link href="../media/style.css" rel="stylesheet" type="text/css">
+	<!--#include virtual="/includes/head.html" -->
 	<title>Cece is listing things</title>
 </head>
 
@@ -26,7 +20,7 @@
 			</tr>
 			<tr>
 				<td></td>
-				<td><p class="title">Director of Design & Project Management</p><p>Launched 3 major college finance products: <a href="http://consolidation.alltuition.com">Alltuition Loan Consolidation</a>, <a href="http://alltuition.com/search">Alltuition Loan Search</a>, and <a href="http://www.alltuition.com">Alltuition for Financial Aid</a>. Highly involved in user research, prototyping, writing specs, and writing front-end code. Led product updates that doubled conversion rates on our loan consolidation product.</p> <p>Most recently, conducted extensive qualitative market research and focus groups in Mumbai, India for a new product launch focusing on identifying talented youth in STEM fields worldwide.</p>
+				<td><p class="title">Director of Design & Project Management</p><p>Launched 3 major college finance products: <a href="http://consolidation.alltuition.com">Alltuition Loan Consolidation</a>, <a href="http://alltuition.com/search">Alltuition Loan Search</a>, and <a href="http://www.alltuition.com">Alltuition for Financial Aid</a>. Highly involved in user research, prototyping, creating specs, and writing front-end code. Led product updates that doubled conversion rates on our loan consolidation product.</p> <p>Most recently, conducted extensive qualitative market research and focus groups in Mumbai, India for a new product launch focusing on identifying talented youth in STEM fields worldwide.</p>
 				<p class="note">The Alltuition team moved to Palo Alto in May 2012 to start work on <a href="http://www.brilliantscholars.com">Brilliant</a></p></td>
 			</tr>
 			
@@ -36,7 +30,7 @@
 			</tr>
 			<tr>
 				<td></td>
-				<td><p class="title">Bachelor of Arts in Economics + Bachelor of Arts in Public Policy</p><p>5-page essays and taking derivatives. Studied urban planning and economics, environmental economics, and business. Consulted for 3 local non-profits. Graduated with honors. Gained deferred acceptance into Chicago Booth's full time MBA program as part of the Booth Scholars Program.</p><p class="note">GPA: 3.63 / GMAT: 730</p></td>
+				<td><p class="title">Bachelor of Arts in Economics + Bachelor of Arts in Public Policy</p><p>5-page essays and taking derivatives. Studied environmental economics, urbanization, and business. Consulted for 3 local non-profits. Graduated with honors. Gained deferred acceptance into Chicago Booth's full time MBA program as part of the Booth Scholars Program.</p><p class="note">GPA: 3.63 / GMAT: 730</p></td>
 			</tr>
 			
 			<tr>
@@ -45,7 +39,7 @@
 			</tr>
 			<tr>
 				<td></td>
-				<td><p class="title">Co-founder & Design Advisor</p><p>First foray into mobile app design. Helped pitch and write business plan for our Excelerate class of 2011 application. Hung out at the IDEO Chicago offices and contributed product concepts for ideation sessions.</p> <p class="note">Food Genius was a startup-in-residence at IDEO and recently closed their Series A round of financing.<p/></td>
+				<td><p class="title">Co-founder & Design Advisor</p><p>First foray into mobile app design. Helped pitch and write business plan for our Excelerate class of 2011 application. Hung out at the IDEO Chicago offices and contributed product concepts for focus group and "deep dive" sessions.</p> <p class="note">Food Genius was Excelerate '11, a startup-in-residence at IDEO, and recently closed their Series A round of financing.<p/></td>
 			</tr>
 			
 			<tr>
@@ -81,7 +75,7 @@
 			</tr>
 			<tr>
 				<td></td>
-				<td><p>Identity, website, and business collateral design for small businesses, non-profits, and restaurants. UI/UX consulting for web startups.</p></td>
+				<td><p>Identity, website, and business collateral design for small businesses, non-profits, and restaurants. UI/UX consulting for various web startups.</p></td>
 			</tr>
 			
 			<tr>

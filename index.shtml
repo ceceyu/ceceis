@@ -1,11 +1,7 @@
 <html>
 
 <head>
-	<script type="text/javascript" src="//use.typekit.net/yci1tiy.js"></script>
-	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-	<script type='text/javascript' src='media/js/jquery-1.8.0.min.js'></script>
-	<script type='text/javascript' src='media/js/jquery.tipsy.js'></script>
-	<link href="media/style.css" rel="stylesheet" type="text/css">
+	<!--#include virtual="/includes/head.html" -->
 	<title>Cece is</title>
 </head>
 
@@ -15,8 +11,19 @@
 	<!--#include virtual="/includes/skinny-nav.html" -->
 	<div class="content">
 		<div class="main-intro">
-		<p>Heyo. I'm an analytical interaction designer based in Palo Alto. I currently lead interaction design and project management for Alltuition.com. I like discovering customer needs, shipping product, and studying urbanization. I also rock climb, bike, and <i>tendu</i>.</p>
+		<p>Heyo. I'm an <span>analytical product designer</span> based in Palo Alto. I currently lead design and project manage for Alltuition.com. I like researching customer needs, shipping product, and studying urbanization. I also rock climb, bike, and <a href="http://www.youtube.com/watch?v=7O-Xt5tLogw">tendu</a>.</p>
 		</div>
+		<div class="blog">
+			<div class="entry">
+				<h3>9/3/2012</h3>
+				<div class="text">
+				<img src="../media/images/blog/9-3-2012.png"/>
+				<p>I had a hard time figuring out what picture I should put for my inaugural blog entry, so I decided to show you this log from Pebble Beach. I'm a sucker for sinewy textures like this.</p>
+				<div style="clear:both;"></div>
+				</div>
+			</div>
+		</div>
+		<div class="push">&nbsp;</div>
 		<!--#include virtual="/includes/footer.html" -->
 	</div>
 	

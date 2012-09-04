@@ -1,13 +1,7 @@
 <html>
 
 <head>
-	<script type="text/javascript" src="//use.typekit.net/yci1tiy.js"></script>
-	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-	<script type='text/javascript' src='../media/js/jquery-1.8.0.min.js'></script>
-	<script type='text/javascript' src='../media/js/jquery.tipsy.js'></script>
-	<script type='text/javascript' src='../media/js/tipsy_skinny_nav.js'></script>
-	<link rel="stylesheet" href="../media/tipsy.css" type="text/css" />
-	<link href="../media/style.css" rel="stylesheet" type="text/css">
+	<!--#include virtual="/includes/head.html" -->
 	<title>Cece is listening</title>
 </head>
 
@@ -22,7 +16,7 @@
 		<div class="contact-wrapper">
 				<div class="intro">
 					<h2>Talk to me!</h2>
-					<p>I usually get back to folks within 5-12 hours. Sorry, I am not available for contract work at this time.</p>
+					<p>I usually get back to folks within 5-12 hours.</p>
 					<p>You can also find me on:</p>
 					<ul>
 					<li><a href="http://www.facebook.com/cece.yu">Facebook</a></li>
