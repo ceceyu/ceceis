@@ -36,6 +36,7 @@ body a:hover { color: #00a6a6; text-decoration: underline; }
 .standard-wrap ul li { list-style: none; margin-bottom: 15px; font-size: .9em; }
 
 /* LANDING STYLES */
+/* WIDE NAV-- NOT IN USE
 body.home .nav-wrap { width: 175px; }
 body.home .nav-wrap ul li span { display: block; float: left; width: 25px; height: 25px; margin-right: 20px; }
 body.home .nav-wrap ul li.me span { background: url(images/icon-sprite.png) 0 0 no-repeat; }
@@ -47,6 +48,7 @@ body.home .nav-wrap ul li.contact span { background: url(images/icon-sprite.png)
 body.home .nav-wrap ul li a { font-size: .7em; text-transform: uppercase; letter-spacing: 1px; padding-top: 6px; color: #fff; text-decoration: none; text-indent: 0px; width: auto; height: auto; background: none; }
 body.home .nav-wrap ul li a:hover { color: #ffd9a2; background: none; }
 body.home .content { width: 775px; }
+*/
 
 .content .main-intro { margin: 0px 80px 70px 80px; }
 .content .main-intro p { font-size: 1.6em; line-height: 1.4em; margin: 0 0 60px 0px; }
