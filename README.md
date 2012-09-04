@@ -1,4 +1,4 @@
 ceceis
 ======
 
-My portfolio
+My portfolio. I am an open book.
